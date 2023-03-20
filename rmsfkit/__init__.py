@@ -4,7 +4,7 @@ A package to perform RMSF analysis on molecular dynamics data.
 """
 
 # Add imports here
-from .rmsfkit import canvas
+from .rmsfkit import RMSF
 
 # Handle versioneer
 from ._version import get_versions
