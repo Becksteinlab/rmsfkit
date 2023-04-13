@@ -8,6 +8,7 @@ dependencies:
   - sphinx
 
   - sphinx_rtd_theme
+  - sphinxcontrib-bibtex
 
     # Pip-only installs
   #- pip:
